@@ -1,4 +1,3 @@
-\client.version:1b642266
 \doorstop_config.ini:517203a5
 \winhttp.dll:81b530cc
 \RustClient_Data\il2cpp_kaidoz\ErrorLog.log:00000000
@@ -356,7 +355,7 @@
 \RustClient_Data\il2cpp_kaidoz\interop\UnityEngine.VRModule.dll:77b5e6c3
 \RustClient_Data\il2cpp_kaidoz\interop\UnityEngine.WindModule.dll:b1ee7fe2
 \RustClient_Data\il2cpp_kaidoz\interop\UnityEngine.XRModule.dll:71ed2eff
-\RustClient_Data\il2cpp_kaidoz\plugins\Rust-Mod.dll:dee68237
+\RustClient_Data\il2cpp_kaidoz\plugins\Rust-Mod.dll:f615e594
 \RustClient_Data\il2cpp_kaidoz\unity-libs\UnityEngine.AccessibilityModule.dll:defe6e8e
 \RustClient_Data\il2cpp_kaidoz\unity-libs\UnityEngine.AIModule.dll:532feaef
 \RustClient_Data\il2cpp_kaidoz\unity-libs\UnityEngine.AndroidJNIModule.dll:52360313
