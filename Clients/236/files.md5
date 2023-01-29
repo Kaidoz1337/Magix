@@ -1,3 +1,4 @@
+\.doorstop_version:dbdbed46
 \doorstop_config.ini:72f79fe3
 \winhttp.dll:81b530cc
 \BepInEx\cache\chainloader_typeloader.dat:f4575832
@@ -352,7 +353,7 @@
 \BepInEx\interop\UnityEngine.VRModule.dll:77b5e6c3
 \BepInEx\interop\UnityEngine.WindModule.dll:b1ee7fe2
 \BepInEx\interop\UnityEngine.XRModule.dll:71ed2eff
-\BepInEx\plugins\Rust-Mod.dll:a9d8a3ac
+\BepInEx\plugins\Rust-Mod.dll:ee8fc6bc
 \BepInEx\unity-libs\UnityEngine.AccessibilityModule.dll:defe6e8e
 \BepInEx\unity-libs\UnityEngine.AIModule.dll:532feaef
 \BepInEx\unity-libs\UnityEngine.AndroidJNIModule.dll:52360313
