@@ -284,7 +284,9 @@
    "Servers":{
       "Official":[
          {
-		 
+			"Address": "194.147.90.129",
+			"Port": 28016,
+			"Tags": ""
          },
       ], 
       "Banned": [
